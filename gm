@@ -1,7 +1,0 @@
-echo "# pizzagama" >> README.md 
-git init 
-git add README.md 
-git commit -m "primeiro commit" 
-git remote add origin https://github.com/nicollsgarcia/pizzagama.git
- git push -u origin master
-                
